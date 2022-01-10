@@ -51,4 +51,4 @@ function countdown(dateEnd) {
 
 
 
-countdown ('07/31/2021 12:00:00 AM');
+countdown ('01/01/2023 12:00:00 AM');
