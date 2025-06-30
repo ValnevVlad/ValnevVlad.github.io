@@ -51,4 +51,4 @@ function countdown(dateEnd) {
 
 
 
-countdown ('01/09/2025 12:00:00 AM');
+countdown ('08/16/2025 12:00:00 AM'); // ММ/ДД/ГГГГ
